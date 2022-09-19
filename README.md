@@ -11,3 +11,5 @@
 **lib/为glog库依赖**
 
 **run/为可执行文件**
+
+**baseline为基线程序,blocked为矩阵分块算法**
