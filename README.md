@@ -2,6 +2,8 @@
 矩阵乘不同方法比较
 
 ## 使用
-1.cmake .
-2.make
-3../run/run-baseline
+1. cmake .
+2. 
+3. make
+4. 
+5. ./run/run-baseline
